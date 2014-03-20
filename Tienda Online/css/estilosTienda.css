@@ -1,0 +1,175 @@
+
+a{
+    text-decoration:none;
+    font-weight: lighter;
+    
+    color: #ffc600;
+}
+a:hover{
+    text-decoration:none;
+    font-weight: bolder;
+}
+
+header{
+
+    height: 150px;
+    width: 100%;
+    background-size: 960px;
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+    
+}
+
+
+
+header>h3{
+    font-family: arial;
+    font-weight: lighter;
+}
+
+
+.bannerheader{
+    width: 1500px;
+    position: top;
+
+}
+
+.titulopagina>h1{
+    
+    font-family: helvetica;
+    font-weight: lighter;
+    text-decoration: none;
+     
+}
+
+nav>ul>li{
+    display: inline-block;
+    width: 100px;
+    padding: 15px;
+    margin-right: 5%;
+    background-color: black;
+    border-radius: 15px;
+}
+
+
+body{
+    
+    background-color: #324acf;
+
+    
+}
+
+
+
+
+.contenedorCarro{
+    
+    position: absolute;
+    margin-left: 65%;
+    clear: both;
+    width: 30%;
+    float: right;
+    background: black;
+    color: #ffc600;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.contenedorCarro>.tienda{
+    
+    width: 100%;
+}
+
+.contenedorCarro>a>img{
+    display: inline-block;
+    width: 49%;
+    margin-top: 5px;
+    border: 2px;
+    border-color: white;
+}
+
+
+article {
+    padding: 20px;
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+article>img{
+    border-radius: 15px;
+}
+
+
+h6{
+    text-align: center;
+}
+
+
+p{
+    font-family: helvetica;
+    color: white;
+}
+
+
+.botoncompra{
+    width: 200px;
+    height: 40px;
+    background-color: #324acf;
+    border-color: none;
+    border-radius: 15px; 
+    border: none;
+}
+
+a>button{
+    width: 200px;
+    height: 40px;
+    background-color: #324acf;
+    border-color: none;
+    border-radius: 15px; 
+    border: none;
+    margin: 10px;
+}
+
+.tituloProfile{
+    width: 100%;
+    text-align: left;
+    padding: 20px;
+    font-size: 30px;
+    background-color: black;
+    margin-top: -1px;
+}
+
+.tituloConfir{
+   
+    text-align: left;
+    padding: 20px;
+    font-size: 30px;
+    background-color: black;
+    margin-top: -20px;
+}
+
+input{
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    border-color: none;
+    border-radius: 15px; 
+    border: none;
+    margin: 10px;
+    margin-right: 80%;
+    padding:5px;
+    font-size: 15px;
+}
+
+footer{
+    
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding: 5px;
+}
+
+td{
+    color: black;
+}
